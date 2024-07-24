@@ -1,0 +1,5 @@
+.desktop
+.directory
+data/
+*__pycache__
+.DS*
